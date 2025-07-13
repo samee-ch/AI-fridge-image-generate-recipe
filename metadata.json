@@ -1,0 +1,8 @@
+{
+  "name": "Fridge Chef AI",
+  "description": "Upload a photo of your fridge, and our AI will suggest simple recipes you can make with the ingredients you have.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
